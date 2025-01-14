@@ -16,7 +16,7 @@ esphome:
   comment: ${device_description}
   project:
     name: jwaters23.esphome-tesla-ble
-    version: "2025.1.0"
+    version: "2025.1.1"
   libraries:
     - https://github.com/jwaters23/tesla-ble.git#main
 
