@@ -15,7 +15,7 @@ esphome:
   friendly_name: ${friendly_name}
   comment: ${device_description}
   project:
-    name: yoziru.esphome-tesla-ble
+    name: jwaters23.esphome-tesla-ble
     version: "2025.1.0"
   libraries:
     - https://github.com/jwaters23/tesla-ble.git#main
